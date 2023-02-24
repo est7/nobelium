@@ -3,7 +3,7 @@ const BLOG = {
   author: 'baitu',
   email: '',
   link: 'https://baitu520.vercel.app',
-  description: ‘只是一个分享',
+  description: 'android分享临时blog',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
